@@ -1,0 +1,2 @@
+# watch.trace
+on movement
